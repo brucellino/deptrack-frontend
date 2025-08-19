@@ -1,5 +1,5 @@
 {
-  "API_BASE_URL": "",
+  "API_BASE_URL": "https://sms.eoscnode.org/dt-api",
   "API_WITH_CREDENTIALS": "",
   "OIDC_CLIENT_ID": "",
   "OIDC_FLOW": "code",
